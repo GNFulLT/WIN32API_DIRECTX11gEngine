@@ -1,0 +1,4 @@
+﻿  GraphicsRenderer.cpp
+C:\Users\ugurbey\Desktop\fpsDX9\GEngine\GameEngineDXD3D\GameEngineDXD3D\Graphics\GraphicsCore.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ugurbey\Desktop\fpsDX9\GEngine\GameEngineDXD3D\GameEngineDXD3D\Graphics\GraphicsRenderer.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameEngineDXD3D.vcxproj -> C:\Users\ugurbey\Desktop\fpsDX9\GEngine\GameEngineDXD3D\x64\Debug\GameEngineDXD3D.exe
